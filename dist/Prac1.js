@@ -1,6 +1,4 @@
-"use strict";
 // Enunciado:
-Object.defineProperty(exports, "__esModule", { value: true });
 // Crear una clase Estudiante que contenga los siguientes atributos:
 // nombre (string)
 // carnet (string)
@@ -62,4 +60,5 @@ producto1.mostrarDetalles();
 producto1.calcularTotal();
 producto2.mostrarDetalles();
 producto2.calcularTotal();
+export {};
 //# sourceMappingURL=Prac1.js.map
